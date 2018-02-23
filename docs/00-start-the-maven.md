@@ -2,9 +2,9 @@
 
 ### reference
 
-- 参考maven的官方文档[maven-quickly-start]，本篇仅仅只个人笔记，maven更多内容直接看官方文档最好
+- 参考maven的官方文档 [maven-document]，本篇仅仅只个人笔记，maven更多内容直接看官方文档最好
 
-###　快速开始
+### 快速开始
 
 - 光鱼的开发环境是Linux 4.14, Java 8, maven 3.5
 - 使用maven的archetype构建项目，有个小技巧，提前下载archetype-catalog.xml文件到本地
