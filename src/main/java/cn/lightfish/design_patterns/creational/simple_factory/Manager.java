@@ -1,0 +1,18 @@
+package cn.lightfish.design_patterns.creational.simple_factory;
+
+public class Manager extends User
+{
+	public Manager()
+	{
+		System.out.println("Manager appear");
+    }
+    
+    public void say(){
+		System.out.println("i'm a Manager");
+    }
+	
+	public void work()
+	{
+		System.out.println("have a meeting");
+	}
+}
